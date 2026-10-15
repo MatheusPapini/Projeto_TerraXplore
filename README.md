@@ -1,4 +1,4 @@
-# TerraXplore
+# 🔎🌎 TerraXplore
 
 ### Plataforma educativa sobre fenômenos da natureza
 
